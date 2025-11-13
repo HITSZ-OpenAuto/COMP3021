@@ -1,0 +1,177 @@
+ID: "COMP3021"
+SimilarID: []
+Name: "自然语言处理"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大四"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["智能强基班", "计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+
+  - Major:
+      - Year: "2024_2025"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3021"
+    CourseName: "自然语言处理"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "三人组队，打BDCI上的比赛"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "比赛"
+        Percentage: "60"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
