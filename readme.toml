@@ -1,15 +1,15 @@
 course_name = "自然语言处理"
-repo_type = "normal"
 course_code = "COMP3021"
-
+repo_type = "normal"
 description = "自然语言处理课程信息。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "徐睿峰"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "NLP 经验非常丰富的教授，为人和蔼可亲，欢迎大家去他的实验室学习深造。"
-
 
 [[sections]]
 title = "关于考试"
