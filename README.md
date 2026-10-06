@@ -6,8 +6,6 @@
 ![比赛60%](https://img.shields.io/badge/比赛-60%25-wheat)
 ![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
-自然语言处理课程信息。
-
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
@@ -32,4 +30,5 @@
 <!-- TOML-ITEM: id="item-关于实验-1" -->
 
 三人组队，打 BDCI 上的比赛。
+
 需要 Python 基础和深度学习框架基础，助教会花两节课时间教大家。
