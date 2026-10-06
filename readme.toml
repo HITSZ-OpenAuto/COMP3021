@@ -1,7 +1,6 @@
 course_name = "自然语言处理"
 course_code = "COMP3021"
 repo_type = "normal"
-description = ""
 
 [lecturers]
 
