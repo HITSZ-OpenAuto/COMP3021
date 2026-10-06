@@ -1,7 +1,7 @@
 course_name = "自然语言处理"
 course_code = "COMP3021"
 repo_type = "normal"
-description = "自然语言处理课程信息。"
+description = ""
 
 [lecturers]
 
@@ -26,5 +26,6 @@ title = "关于实验"
 [[sections.items]]
 content = """
 三人组队，打 BDCI 上的比赛。
+
 需要 Python 基础和深度学习框架基础，助教会花两节课时间教大家。
 """
