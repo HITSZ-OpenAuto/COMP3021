@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814924,
+    "hash": "8d216fb5c2648fa5800e3565fee772bbf666df2c"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "README.md": {
+    "size": 961,
+    "time": 1791961607,
+    "hash": "c4b3e014eaffa09f9e5aba806796b051123ead7d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "readme.toml": {
+    "size": 860,
+    "time": 1791263791,
+    "hash": "75de453d3da078f2e63fcab027ec0ebeddab4cc1"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754241070,
+    "hash": "b972d649e82db8eccee4e0a0e7efc0700446c418"
+  },
+  "slides/2022/Lecture 1 Introduction to NLP Research 2022.pdf": {
+    "size": 2885647,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 10 Parsing I 本科2022.pdf": {
+    "size": 3450307,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 11 Parsing II 本科 2022.pdf": {
+    "size": 2393903,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 12 Text Catergorization 本科2022.pdf": {
+    "size": 2531803,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 13 Text Clustering 本科 2022.pdf": {
+    "size": 5348675,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 14 Information Extraction 2022.pdf": {
+    "size": 5720940,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 15 Question Answering 2022.pdf": {
+    "size": 5050151,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 16 Sentiment Analysis 本科 2022.pdf": {
+    "size": 7748463,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 2 Linguistics Foundations 2022.pdf": {
+    "size": 1323059,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 3 Machine Learning 2022.pdf": {
+    "size": 2785090,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 4 Deep Learning 2022.pdf": {
+    "size": 6987091,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 5 Automatic Chinese Word Segmentation 本科 2022.pdf": {
+    "size": 2531299,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 6 Unknown_Word_Identification_and_Normalization 本科 2022.pdf": {
+    "size": 2672320,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 7 Word_Meanings 本科 2022.pdf": {
+    "size": 2773034,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 8 Word Sense Disambiguition 本科 2022.pdf": {
+    "size": 2830943,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  },
+  "slides/2022/Lecture 9 Language Model 本科 2022.pdf": {
+    "size": 7989701,
+    "time": 1756080436,
+    "hash": "ce663b62355514864b550d03d947b33509714e4d"
+  }
+}
