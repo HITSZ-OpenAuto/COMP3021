@@ -1,10 +1,5 @@
 # COMP3021 - 自然语言处理
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![比赛60%](https://img.shields.io/badge/比赛-60%25-wheat)
-![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 ## 授课教师
 
